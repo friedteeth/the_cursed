@@ -10304,6 +10304,12 @@ body {
     width: 30%;
   }
 }
+@media (min-width: 992px) {
+  .about-section .featured-text {
+    padding: 0 0 0 2rem;
+    border-left: 0.5rem solid #64a19d;
+  }
+}
 
 .signup-section {
   padding: 10rem 0;
